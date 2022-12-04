@@ -3,19 +3,22 @@ I'm looking for a React developer job (junior or trainee)
 
 
 ### My portfolio:  
+💼
 https://la-shoopa.vercel.app/  
 https://react-pizza-omega.vercel.app/  
 https://messenger-indol.vercel.app/1  
 https://weather-app-sable-nine.vercel.app/
 
 ### My language skills:
+🌍
 Ukrainian: native,  
 Russian: native,  
 Polish: intermediate,  
 English: pre-intermediate. 
 
 ### How to reach me:  
-📫 vm3192@icloud.com  
+📫 
+email: vm3192@icloud.com  
 telegram: @vm3192
 
 <!--
