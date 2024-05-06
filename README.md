@@ -5,8 +5,7 @@ I'm looking for a React developer job (junior or trainee).
 💼  
 https://la-shoopa.vercel.app/  
 https://react-pizza-omega.vercel.app/  
-https://messenger-indol.vercel.app/1  
-https://weather-app-sable-nine.vercel.app/
+https://messenger-indol.vercel.app/1
 
 **My language skills:**  
 🌍  
